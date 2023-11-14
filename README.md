@@ -1,8 +1,8 @@
-# Welcome to [Your Project Name or Your Name]!
+# 13xch | Portfolio, Walkthroughs, Blogs, etc
 
-## About Me / About the Project
+## About Me 
 
-Hey there! I'm [Your Name] or this is [Your Project Name]. I'm passionate about [describe your interests, goals, or the project's purpose].
+My name is Connor, and I am a current cybersecurity student at a small private school in Indiana, passionate about pentesting, ethical hacking, network security, and all things relate to cybersecurity. I am looking to learn more and share my work with others, so I have set up this page to document my learning and record my progress!
 
 You can find more about me or explore this project through the links below.
 
@@ -19,27 +19,14 @@ You can find more about me or explore this project through the links below.
 
 [Provide a brief introduction to yourself or your project. Highlight what makes it unique or interesting. Consider adding images, gifs, or emojis to make it visually appealing.]
 
-## Features
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-- ...
-
-## Installation
-
-[Provide instructions or prerequisites for installing your project if applicable.]
 
 ## Usage
 
 [Explain how to use your project. You might include code snippets or examples here.]
 
-## Contributing
+## Follow/Connect
 
-[Guidelines for contributors, if you welcome collaboration.]
+[Connect with me on LinkedIn](https://www.linkedin.com/in/heitmanconnor/)
 
-## License
-
-[Specify the license under which your project is distributed.]
-
-Feel free to connect with me on [social media platform or email]! Let's collaborate and make something awesome together.
+[Follow my Medium blog](https://medium.com/@13xch)
