@@ -8,7 +8,7 @@ You can find more about me or explore this project through the links below.
 
 ## Table of Contents
 
-- [About](#about)
+- [About](https://13xch.github.io/about)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
