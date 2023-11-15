@@ -1,8 +1,10 @@
 # 13xch | Portfolio, Walkthroughs, Blogs, etc
 
+<img src="https://github.com/13xch/13xch.github.io/blob/main/webcontent/images/headshot.jpg" alt="Headshot" align="left" width="100" style="margin-right: 20px;">
+
 ## About Me 
 
-My name is Connor, and I am a current cybersecurity student at a small private school in Indiana, passionate about pentesting, ethical hacking, network security, and all things relate to cybersecurity. I am looking to learn more and share my work with others, so I have set up this page to document my learning and record my progress!
+My name is Connor, and I am a current cybersecurity student at a small private school in Indiana, passionate about pentesting, ethical hacking, network security, and all things related to cybersecurity. I am looking to learn more and share my work with others, so I have set up this page to document my learning and record my progress!
 
 You can find more about me or explore this project through the links below.
 
@@ -18,8 +20,6 @@ You can find more about me or explore this project through the links below.
 ## About
 
 [Provide a brief introduction to yourself or your project. Highlight what makes it unique or interesting. Consider adding images, gifs, or emojis to make it visually appealing.]
-
-
 
 ## Usage
 
