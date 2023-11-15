@@ -1,6 +1,6 @@
 # 13xch | Portfolio, Walkthroughs, Blogs, etc
 
-![Headshot](https://github.com/13xch/13xch.github.io/blob/678710ce684f93c3af9cc58ae953f0789e2d56b6/webcontent/images/headshot.jpg)
+![Headshot](/webcontent/images/headshot.jpg)
 
 ## About Me 
 
