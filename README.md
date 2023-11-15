@@ -1,6 +1,6 @@
 # 13xch | Portfolio, Walkthroughs, Blogs, etc
 
-<img src="https://github.com/13xch/13xch.github.io/blob/main/webcontent/images/headshot.jpg" alt="Headshot" align="left" width="100" style="margin-right: 20px;">
+![Headshot](https://github.com/13xch/13xch.github.io/blob/678710ce684f93c3af9cc58ae953f0789e2d56b6/webcontent/images/headshot.jpg)
 
 ## About Me 
 
