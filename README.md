@@ -4,26 +4,13 @@
 
 ## About Me 
 
-My name is Connor, and I am a current cybersecurity student at a small private school in Indiana, passionate about pentesting, ethical hacking, network security, and all things related to cybersecurity. I am looking to learn more and share my work with others, so I have set up this page to document my learning and record my progress!
+My name is Connor, and I am a current computer science student at a private school in Indiana, passionate about software engineering, ethical hacking, network security, operations research, and all things related to cybersecurity. I am looking to learn more and share my work with others, so I have set up this page to document my learning and record my progress!
 
 You can find more about me or explore this project through the links below.
 
-## Table of Contents
-
-- [About](https://13xch.github.io/about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
-[Provide a brief introduction to yourself or your project. Highlight what makes it unique or interesting. Consider adding images, gifs, or emojis to make it visually appealing.]
-
-## Usage
-
-[Explain how to use your project. You might include code snippets or examples here.]
+I have been developing BabbleBot, a platform utilizing artificial intelligence and Science of Reading based practices to improve early English learning outcomes for students, for the past year. This project originated from the goal of providing an accessible and fair way for students of all backgrounds to learn and grow in their critical early English skills, regardless of background or income. The platform is hosted at babblebot.xyz, and is currently undergoing a site rework with our new functionality, and may be under construction at the time of writing this. We are currently planning additional pilot phases in classrooms accross the country at the moment, in order to gain more feedback and data to fuel additional development and understand how educators utilize the program.
 
 ## Follow/Connect
 
